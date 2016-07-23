@@ -1,0 +1,26 @@
+{{ partial "head" . }}
+
+
+<div id="container">
+    {{ partial "header" . }}
+
+Willkommen bei Smokehouse!
+
+Smokehouse ist eine Rock-/Skiffle-/Bluesband mit mehrstimmigem Gesang und Musik, die auch durch Akkordeon, Banjo und Keyboard beeinflusst wird.
+
+{{ range first 10 .Data.Pages }}
+        {{ .Render "summary"}}
+    {{ end }}
+
+
+    <div class="outer">
+{{ partial "profile" . }}
+    {{ partial "article_list" . }}
+    {{ partial "sidebar" . }}
+    </div>
+</div>
+
+
+{{ partial "footer" . }}
+</body>
+</html>
