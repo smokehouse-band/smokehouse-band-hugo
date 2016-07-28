@@ -1,5 +1,5 @@
 # Site settings (baseurl must end with a trailing slash!)
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "https://smokehouse-band.github.io/"
 languageCode = "de-de"
 title = "Smokehouse - Die Rock-/Blues-/Skiffle Band"
 theme = "grid-side"
@@ -61,10 +61,10 @@ SectionPagesMenu = "Main"
         name = "Smokehouse - Band"
 
         # This is optional
-        description = "Rock, Blues und Skiffle"
+        description = "unten geht es weiter ..."
 
         # This is optional
-        email = "smokehouse-band@online.de"
+        email = "Rock, Blues, Skiffle"
 
         # Not providing this results in a color being used
         image = "pictures/schlagzeug.jpg"
@@ -140,7 +140,7 @@ SectionPagesMenu = "Main"
             link = "/aktuelles/"
 
             # The image to use as a background-image for the cell
-            image = "/pictures/akkordeon.jpg"
+            image = "/pictures/zupf.jpg"
 
             # This uses the CSS background-position, given the image above is
             # set, useful when you want to adjust where the background-image
@@ -169,18 +169,18 @@ SectionPagesMenu = "Main"
         [[Params.Cells.List]]
 
             name = "Musik"
-            link = "/musik/"
+            link = "/musik/repertoire"
             image = "/pictures/keyboard.jpg"
 
         [[Params.Cells.List]]
 
             name = "Band"
-            link = "/band/"
+            link = "/band/band"
             image = "/pictures/notenheft.jpg"
 
         [[Params.Cells.List]]
 
             name = "Kontakt"
             link = "/kontakt/kontakt"
-            image = "/pictures/mischpult.jpg"
+            image = "/pictures/gesang.jpg"
 
