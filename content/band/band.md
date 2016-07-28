@@ -6,17 +6,17 @@ title = "Die Bandmitglieder"
 image ="/pictures/gesang.jpg"
 +++
 
-Wir bezeichnen uns selbst als Amateurband. Durch eine größere Auswahl an Instrumenten klingen wir deutlich abwechslungsreicher als andere.
+Smokehouse ist eine große Band mit familiärer Athmosphäre. Durch eine größere Auswahl an Instrumenten bringen wir ein abwechslungsreiches Programm auf die Bühne. Mit mehrstimmigen Gesang und eingängigen Songs sprechen wir eine breite Zielgruppe an. Ein wenig Skiffle, Shanty sowie Country, aber immer rockig ohne die Melodie aus den Ohren zu verlieren.
 
-Die Band besteht derzeit aus 10 Mitgliedern mit folgender Besetzung:
+Die Band besteht derzeit aus folgender Besetzung:
 
 <!--more-->
 
  * Akkordeon
  * Banjo
  * Bass
- * Gitarre 3x
- * Gesang: 2x Tenor ?x Bass ?
+ * Gitarre
+ * Gesang (5 SängerInnen)
  * Schlagzeug
  * Keyboard
 

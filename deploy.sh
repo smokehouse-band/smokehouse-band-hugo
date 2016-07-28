@@ -1,9 +1,14 @@
 #!/bin/bash
 
+
+echo "Deleting all exif attributes"
+/usr/bin/exiftool -overwrite_original -all= ./static/pictures/*
+
+
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-hugo # if using a theme, replace by `hugo -t <yourtheme>`
+hugo -t grid-side # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Go To Public folder
 cd public
