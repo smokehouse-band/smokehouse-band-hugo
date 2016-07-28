@@ -6,12 +6,10 @@ description = ""
 menu = ""
 tags = []
 title = "Unsere Musik"
-
 +++
 
-Derzeit spielen wir die folgenden Songs, und es kommen ständig neue hinzu:
+Derzeit spielen wir die folgenden Songs, es kommen ständig neue hinzu:
 <!--more-->
-
  * [The Midnight Special](https://www.youtube.com/results?search_query=the+midnight+special) - Creedence Clearwater Revival
  * [Cotton Fields](https://www.youtube.com/results?search_query=cotton+fields) - Creedence Clearwater Revival
  * [Proud Mary](https://www.youtube.com/results?search_query=proud+mary) - Creedence Clearwater Revival
