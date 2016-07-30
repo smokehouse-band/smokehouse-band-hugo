@@ -5,7 +5,8 @@ image = "/pictures/gitarre.jpg"
 +++
 
 
-Smokehouse sucht Verstärkung an der Lead-Gitarre (elektrisch). Übungsraum und Equipment sind vorhanden. Geprobt wird jeden Mittwoch von 19:00 Uhr bis 22:00 Uhr.
+Smokehouse sucht Verstärkung an der Lead-Gitarre (elektrisch). <!--more-->
+Übungsraum und Equipment sind vorhanden. Geprobt wird jeden Mittwoch von 19:00 Uhr bis 22:00 Uhr.
 Wenn du dich angesprochen fühlst melde dich doch unter Tel: 0441/ 36183823 bei Thomas oder per E-Mail an <mailto:smokehouse-band@online.de>
 
 

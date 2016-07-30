@@ -107,7 +107,7 @@ SectionPagesMenu = "Main"
 #            icon_link = "#!"
 
         [[Params.Footer.List]]
-
+#
             icon_class = "github"
             icon_link = "#!"
 

@@ -14,7 +14,7 @@ Derzeit spielen wir die folgenden Songs, es kommen ständig neue hinzu:
  * [Cotton Fields](https://www.youtube.com/results?search_query=cotton+fields) - Creedence Clearwater Revival
  * [Proud Mary](https://www.youtube.com/results?search_query=proud+mary) - Creedence Clearwater Revival
  * [16 Tons](https://www.youtube.com/results?search_query=16+tons+zz) - ZZ Top
- * [Johnny B Goode](https://www.youtube.com/results?search_query=johnny+b+good) - Chuck Berry
+ * [Johnny B. Goode](https://www.youtube.com/results?search_query=johnny+b+good) - Chuck Berry
  * [Bad Moon Rising](https://www.youtube.com/results?search_query=bad+moon+rising) - Creedence Clearwater Revival
  * [Achy Breaky Heart](https://www.youtube.com/results?search_query=achy+breaky+heart) - Billy Ray Cyrus
  * [My Bonnie is over the ocean](https://www.youtube.com/results?search_query=bonnie+over+ocean) - Hafenrocker
