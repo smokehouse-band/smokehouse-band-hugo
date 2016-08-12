@@ -1,5 +1,5 @@
 +++
-image = "/pictures/gesangs.jpg"
+image = "/pictures/mischpult_kachel.jpg"
 categories = []
 date = "2016-07-21T10:03:54+02:00"
 description = ""

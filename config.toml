@@ -67,7 +67,7 @@ SectionPagesMenu = "Main"
         email = "Rock, Blues, Skiffle"
 
         # Not providing this results in a color being used
-        image = "pictures/schlagzeug.jpg"
+        image = "pictures/schlagzeug_hintergrund.jpg"
 
         # This uses the CSS background-position, given the image above is set,
         # useful when you want to adjust where the background-image lands
@@ -140,7 +140,7 @@ SectionPagesMenu = "Main"
             link = "/aktuelles/"
 
             # The image to use as a background-image for the cell
-            image = "/pictures/zupf.jpg"
+            image = "/pictures/gitarre_kachel.jpg"
 
             # This uses the CSS background-position, given the image above is
             # set, useful when you want to adjust where the background-image
@@ -170,17 +170,17 @@ SectionPagesMenu = "Main"
 
             name = "Musik"
             link = "/musik/repertoire"
-            image = "/pictures/keyboard.jpg"
+            image = "/pictures/mikrofon_kachel.jpg"
 
         [[Params.Cells.List]]
 
             name = "Band"
             link = "/band/band"
-            image = "/pictures/notenheft.jpg"
+            image = "/pictures/notenheft_kachel.jpg"
 
         [[Params.Cells.List]]
 
             name = "Kontakt"
             link = "/kontakt/kontakt"
-            image = "/pictures/gesang.jpg"
+            image = "/pictures/mischpult_kachel.jpg"
 

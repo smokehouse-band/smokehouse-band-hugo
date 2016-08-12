@@ -3,7 +3,7 @@ categories = []
 date = "2016-07-22T15:55:01+02:00"
 tags = []
 title = "Wir suchen Auftritte"
-image ="/pictures/mischpult.jpg"
+image ="/pictures/mischpult_kachel.jpg"
 +++
 
 Derzeit sind wir auf der Suche nach Auftrittsmöglichkeiten. <!--more-->

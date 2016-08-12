@@ -1,5 +1,5 @@
 +++
-image = "/pictures/keyboard.jpg"
+image = "/pictures/mikrofon_kachel.jpg"
 categories = []
 date = "2016-07-22T08:52:51+02:00"
 description = ""
